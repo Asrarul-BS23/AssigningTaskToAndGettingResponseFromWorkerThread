@@ -1,0 +1,14 @@
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\bin\Debug\net9.0\MainWorkerThreadSimulation.exe
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\bin\Debug\net9.0\MainWorkerThreadSimulation.deps.json
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\bin\Debug\net9.0\MainWorkerThreadSimulation.runtimeconfig.json
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\bin\Debug\net9.0\MainWorkerThreadSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\bin\Debug\net9.0\MainWorkerThreadSimulation.pdb
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.AssemblyInfoInputs.cache
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.AssemblyInfo.cs
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.csproj.CoreCompileInputs.cache
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\refint\MainWorkerThreadSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.pdb
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\MainWorkerThreadSimulation.genruntimeconfig.cache
+C:\Users\BS01491\Documents\C# practice\Projects\MainWorkerThreadSimulation\obj\Debug\net9.0\ref\MainWorkerThreadSimulation.dll
