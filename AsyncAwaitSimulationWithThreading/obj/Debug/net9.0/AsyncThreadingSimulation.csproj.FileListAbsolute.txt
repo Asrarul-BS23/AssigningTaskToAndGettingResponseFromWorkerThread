@@ -1,0 +1,14 @@
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\bin\Debug\net9.0\AsyncThreadingSimulation.exe
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\bin\Debug\net9.0\AsyncThreadingSimulation.deps.json
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\bin\Debug\net9.0\AsyncThreadingSimulation.runtimeconfig.json
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\bin\Debug\net9.0\AsyncThreadingSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\bin\Debug\net9.0\AsyncThreadingSimulation.pdb
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.AssemblyInfoInputs.cache
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.AssemblyInfo.cs
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\refint\AsyncThreadingSimulation.dll
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.pdb
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\AsyncThreadingSimulation.genruntimeconfig.cache
+C:\Users\BS01491\Documents\C# practice\Projects\AsyncThreadingSimulation\obj\Debug\net9.0\ref\AsyncThreadingSimulation.dll
